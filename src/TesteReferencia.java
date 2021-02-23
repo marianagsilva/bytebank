@@ -22,14 +22,5 @@ public class TesteReferencia {
 		}else {
 			System.out.println("nao estao referenciando o mesmo objeto");
 		}
-				
-		
-		
-		
-		
-		
 	}
-	
-	
-
 }

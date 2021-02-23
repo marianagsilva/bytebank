@@ -4,8 +4,6 @@ class Conta {
 	int numero;
 	String titular;
 
-	
-	
 	public void deposita(double valor) {
 		this.saldo += valor;	
 	}
@@ -26,8 +24,6 @@ class Conta {
 			  return true;	  
 		  }
 		  return false;
-		
-		
+				
 	}
-		
 }
